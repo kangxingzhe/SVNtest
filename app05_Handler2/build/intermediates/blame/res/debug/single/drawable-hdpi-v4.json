@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\android_\\quichindex\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\android_\\quichindex\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\android_\\quichindex\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "G:\\android_\\quichindex\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\error.png",
+        "source": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "G:\\android_\\quichindex\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\error.png",
+        "source": "G:\\android_\\quichindex\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\xfzhang\\Desktop\\RefreshDemo\\app05_Handler2\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
